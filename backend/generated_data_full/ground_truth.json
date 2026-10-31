@@ -1,0 +1,30 @@
+[
+  {
+    "case_id": "GT-001",
+    "issue_type": "ALLOCATION_EXCEEDS_AVAILABILITY",
+    "entity_id": "EMP-000001",
+    "expected_label": true,
+    "details": "Employee has an injected over-capacity allocation ALLOC-2026-000120329."
+  },
+  {
+    "case_id": "GT-002",
+    "issue_type": "STALE_SKILL_TREATED_CURRENT",
+    "entity_id": "ES-00000005",
+    "expected_label": true,
+    "details": "Skill verification age exceeds policy while verified_current remains true."
+  },
+  {
+    "case_id": "GT-003",
+    "issue_type": "DEMAND_DOUBLE_COUNTED",
+    "entity_id": "DEM-PRJ-2026-000001-2026W44-R011-S000165-DUP-001",
+    "expected_label": true,
+    "details": "A second demand row duplicates the same project-role-skill-period-version business key."
+  },
+  {
+    "case_id": "GT-004",
+    "issue_type": "OVERLAPPING_PROJECT_ASSIGNMENT",
+    "entity_id": "EMP-000001",
+    "expected_label": true,
+    "details": "Employee has overlapping project allocations including ALLOC-2026-000120330."
+  }
+]

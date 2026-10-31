@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ROLE-001",
+    "name": "Python Developer",
+    "department": "Engineering"
+  },
+  {
+    "id": "ROLE-002",
+    "name": "Backend Developer",
+    "department": "Engineering"
+  },
+  {
+    "id": "ROLE-003",
+    "name": "Frontend Developer",
+    "department": "Engineering"
+  },
+  {
+    "id": "ROLE-004",
+    "name": "AI Engineer",
+    "department": "Data"
+  },
+  {
+    "id": "ROLE-005",
+    "name": "Data Scientist",
+    "department": "Data"
+  },
+  {
+    "id": "ROLE-006",
+    "name": "QA Engineer",
+    "department": "Quality"
+  },
+  {
+    "id": "ROLE-007",
+    "name": "DevOps Engineer",
+    "department": "Operations"
+  },
+  {
+    "id": "ROLE-008",
+    "name": "Business Analyst",
+    "department": "Business"
+  },
+  {
+    "id": "ROLE-009",
+    "name": "Project Manager",
+    "department": "Business"
+  },
+  {
+    "id": "ROLE-010",
+    "name": "Data Engineer",
+    "department": "Data"
+  },
+  {
+    "id": "ROLE-011",
+    "name": "Java Developer",
+    "department": "Engineering"
+  },
+  {
+    "id": "ROLE-012",
+    "name": "Cloud Engineer",
+    "department": "Operations"
+  }
+]

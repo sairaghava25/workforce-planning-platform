@@ -1,0 +1,3746 @@
+[
+  {
+    "id": "TRN-0000001",
+    "employee_id": "EMP-000773",
+    "skill_id": "SKL-000055",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000002",
+    "employee_id": "EMP-001707",
+    "skill_id": "SKL-000161",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000003",
+    "employee_id": "EMP-004100",
+    "skill_id": "SKL-000136",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000004",
+    "employee_id": "EMP-000933",
+    "skill_id": "SKL-000126",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000005",
+    "employee_id": "EMP-002348",
+    "skill_id": "SKL-000097",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000006",
+    "employee_id": "EMP-003243",
+    "skill_id": "SKL-000156",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000007",
+    "employee_id": "EMP-003531",
+    "skill_id": "SKL-000242",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000008",
+    "employee_id": "EMP-004778",
+    "skill_id": "SKL-000022",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000009",
+    "employee_id": "EMP-002043",
+    "skill_id": "SKL-000060",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000010",
+    "employee_id": "EMP-000358",
+    "skill_id": "SKL-000162",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000011",
+    "employee_id": "EMP-000066",
+    "skill_id": "SKL-000021",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000012",
+    "employee_id": "EMP-000143",
+    "skill_id": "SKL-000063",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000013",
+    "employee_id": "EMP-001644",
+    "skill_id": "SKL-000081",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000014",
+    "employee_id": "EMP-004127",
+    "skill_id": "SKL-000017",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000015",
+    "employee_id": "EMP-001939",
+    "skill_id": "SKL-000133",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000016",
+    "employee_id": "EMP-003385",
+    "skill_id": "SKL-000100",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000017",
+    "employee_id": "EMP-001584",
+    "skill_id": "SKL-000212",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000018",
+    "employee_id": "EMP-002663",
+    "skill_id": "SKL-000216",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000019",
+    "employee_id": "EMP-000717",
+    "skill_id": "SKL-000292",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000020",
+    "employee_id": "EMP-000590",
+    "skill_id": "SKL-000024",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000021",
+    "employee_id": "EMP-000414",
+    "skill_id": "SKL-000293",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000022",
+    "employee_id": "EMP-000137",
+    "skill_id": "SKL-000244",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000023",
+    "employee_id": "EMP-001714",
+    "skill_id": "SKL-000062",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000024",
+    "employee_id": "EMP-002977",
+    "skill_id": "SKL-000113",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000025",
+    "employee_id": "EMP-001590",
+    "skill_id": "SKL-000187",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000026",
+    "employee_id": "EMP-004878",
+    "skill_id": "SKL-000177",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000027",
+    "employee_id": "EMP-004285",
+    "skill_id": "SKL-000258",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000028",
+    "employee_id": "EMP-003240",
+    "skill_id": "SKL-000134",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000029",
+    "employee_id": "EMP-003948",
+    "skill_id": "SKL-000193",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000030",
+    "employee_id": "EMP-004490",
+    "skill_id": "SKL-000210",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000031",
+    "employee_id": "EMP-001563",
+    "skill_id": "SKL-000155",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000032",
+    "employee_id": "EMP-003806",
+    "skill_id": "SKL-000038",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000033",
+    "employee_id": "EMP-001544",
+    "skill_id": "SKL-000134",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000034",
+    "employee_id": "EMP-002061",
+    "skill_id": "SKL-000246",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000035",
+    "employee_id": "EMP-003284",
+    "skill_id": "SKL-000116",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000036",
+    "employee_id": "EMP-002828",
+    "skill_id": "SKL-000297",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000037",
+    "employee_id": "EMP-003335",
+    "skill_id": "SKL-000202",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000038",
+    "employee_id": "EMP-001105",
+    "skill_id": "SKL-000139",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000039",
+    "employee_id": "EMP-000319",
+    "skill_id": "SKL-000253",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000040",
+    "employee_id": "EMP-000077",
+    "skill_id": "SKL-000043",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000041",
+    "employee_id": "EMP-004724",
+    "skill_id": "SKL-000283",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000042",
+    "employee_id": "EMP-004205",
+    "skill_id": "SKL-000112",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000043",
+    "employee_id": "EMP-002441",
+    "skill_id": "SKL-000222",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000044",
+    "employee_id": "EMP-004841",
+    "skill_id": "SKL-000068",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000045",
+    "employee_id": "EMP-003946",
+    "skill_id": "SKL-000282",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000046",
+    "employee_id": "EMP-004214",
+    "skill_id": "SKL-000121",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000047",
+    "employee_id": "EMP-002937",
+    "skill_id": "SKL-000004",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000048",
+    "employee_id": "EMP-000965",
+    "skill_id": "SKL-000159",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000049",
+    "employee_id": "EMP-004375",
+    "skill_id": "SKL-000212",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000050",
+    "employee_id": "EMP-003117",
+    "skill_id": "SKL-000134",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000051",
+    "employee_id": "EMP-001896",
+    "skill_id": "SKL-000199",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000052",
+    "employee_id": "EMP-001091",
+    "skill_id": "SKL-000272",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000053",
+    "employee_id": "EMP-000638",
+    "skill_id": "SKL-000251",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000054",
+    "employee_id": "EMP-004242",
+    "skill_id": "SKL-000185",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000055",
+    "employee_id": "EMP-003395",
+    "skill_id": "SKL-000209",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000056",
+    "employee_id": "EMP-004873",
+    "skill_id": "SKL-000067",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000057",
+    "employee_id": "EMP-000659",
+    "skill_id": "SKL-000010",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000058",
+    "employee_id": "EMP-003436",
+    "skill_id": "SKL-000083",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000059",
+    "employee_id": "EMP-000392",
+    "skill_id": "SKL-000256",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000060",
+    "employee_id": "EMP-003554",
+    "skill_id": "SKL-000176",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000061",
+    "employee_id": "EMP-001427",
+    "skill_id": "SKL-000247",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000062",
+    "employee_id": "EMP-000608",
+    "skill_id": "SKL-000041",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000063",
+    "employee_id": "EMP-004916",
+    "skill_id": "SKL-000277",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000064",
+    "employee_id": "EMP-003559",
+    "skill_id": "SKL-000094",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000065",
+    "employee_id": "EMP-004223",
+    "skill_id": "SKL-000037",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000066",
+    "employee_id": "EMP-004954",
+    "skill_id": "SKL-000028",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000067",
+    "employee_id": "EMP-002761",
+    "skill_id": "SKL-000249",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000068",
+    "employee_id": "EMP-002968",
+    "skill_id": "SKL-000193",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000069",
+    "employee_id": "EMP-002213",
+    "skill_id": "SKL-000087",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000070",
+    "employee_id": "EMP-000584",
+    "skill_id": "SKL-000097",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000071",
+    "employee_id": "EMP-000407",
+    "skill_id": "SKL-000148",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000072",
+    "employee_id": "EMP-002251",
+    "skill_id": "SKL-000174",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000073",
+    "employee_id": "EMP-002523",
+    "skill_id": "SKL-000067",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000074",
+    "employee_id": "EMP-000664",
+    "skill_id": "SKL-000047",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000075",
+    "employee_id": "EMP-002042",
+    "skill_id": "SKL-000065",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000076",
+    "employee_id": "EMP-001118",
+    "skill_id": "SKL-000256",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000077",
+    "employee_id": "EMP-001094",
+    "skill_id": "SKL-000299",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000078",
+    "employee_id": "EMP-002478",
+    "skill_id": "SKL-000144",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000079",
+    "employee_id": "EMP-003126",
+    "skill_id": "SKL-000255",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000080",
+    "employee_id": "EMP-004219",
+    "skill_id": "SKL-000019",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000081",
+    "employee_id": "EMP-002820",
+    "skill_id": "SKL-000093",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000082",
+    "employee_id": "EMP-001291",
+    "skill_id": "SKL-000189",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000083",
+    "employee_id": "EMP-004474",
+    "skill_id": "SKL-000278",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000084",
+    "employee_id": "EMP-002562",
+    "skill_id": "SKL-000178",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000085",
+    "employee_id": "EMP-003658",
+    "skill_id": "SKL-000182",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000086",
+    "employee_id": "EMP-004329",
+    "skill_id": "SKL-000049",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000087",
+    "employee_id": "EMP-004857",
+    "skill_id": "SKL-000172",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000088",
+    "employee_id": "EMP-002110",
+    "skill_id": "SKL-000145",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000089",
+    "employee_id": "EMP-002806",
+    "skill_id": "SKL-000231",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000090",
+    "employee_id": "EMP-003909",
+    "skill_id": "SKL-000285",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000091",
+    "employee_id": "EMP-003759",
+    "skill_id": "SKL-000115",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000092",
+    "employee_id": "EMP-001297",
+    "skill_id": "SKL-000099",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000093",
+    "employee_id": "EMP-003183",
+    "skill_id": "SKL-000036",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000094",
+    "employee_id": "EMP-004055",
+    "skill_id": "SKL-000138",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000095",
+    "employee_id": "EMP-003443",
+    "skill_id": "SKL-000084",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000096",
+    "employee_id": "EMP-004531",
+    "skill_id": "SKL-000245",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000097",
+    "employee_id": "EMP-001087",
+    "skill_id": "SKL-000061",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000098",
+    "employee_id": "EMP-004289",
+    "skill_id": "SKL-000073",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000099",
+    "employee_id": "EMP-001121",
+    "skill_id": "SKL-000047",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000100",
+    "employee_id": "EMP-002428",
+    "skill_id": "SKL-000185",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000101",
+    "employee_id": "EMP-003354",
+    "skill_id": "SKL-000188",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000102",
+    "employee_id": "EMP-003753",
+    "skill_id": "SKL-000088",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000103",
+    "employee_id": "EMP-000136",
+    "skill_id": "SKL-000240",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000104",
+    "employee_id": "EMP-001579",
+    "skill_id": "SKL-000286",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000105",
+    "employee_id": "EMP-003765",
+    "skill_id": "SKL-000142",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000106",
+    "employee_id": "EMP-002841",
+    "skill_id": "SKL-000200",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000107",
+    "employee_id": "EMP-004817",
+    "skill_id": "SKL-000212",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000108",
+    "employee_id": "EMP-001345",
+    "skill_id": "SKL-000140",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000109",
+    "employee_id": "EMP-002590",
+    "skill_id": "SKL-000078",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000110",
+    "employee_id": "EMP-001647",
+    "skill_id": "SKL-000075",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000111",
+    "employee_id": "EMP-002609",
+    "skill_id": "SKL-000172",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000112",
+    "employee_id": "EMP-001661",
+    "skill_id": "SKL-000237",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000113",
+    "employee_id": "EMP-002678",
+    "skill_id": "SKL-000223",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000114",
+    "employee_id": "EMP-001344",
+    "skill_id": "SKL-000206",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000115",
+    "employee_id": "EMP-003111",
+    "skill_id": "SKL-000110",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000116",
+    "employee_id": "EMP-002452",
+    "skill_id": "SKL-000111",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000117",
+    "employee_id": "EMP-004471",
+    "skill_id": "SKL-000208",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000118",
+    "employee_id": "EMP-001909",
+    "skill_id": "SKL-000022",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000119",
+    "employee_id": "EMP-001679",
+    "skill_id": "SKL-000243",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000120",
+    "employee_id": "EMP-001022",
+    "skill_id": "SKL-000146",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000121",
+    "employee_id": "EMP-004888",
+    "skill_id": "SKL-000034",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000122",
+    "employee_id": "EMP-003181",
+    "skill_id": "SKL-000212",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000123",
+    "employee_id": "EMP-002285",
+    "skill_id": "SKL-000179",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000124",
+    "employee_id": "EMP-002704",
+    "skill_id": "SKL-000092",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000125",
+    "employee_id": "EMP-002262",
+    "skill_id": "SKL-000075",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000126",
+    "employee_id": "EMP-003439",
+    "skill_id": "SKL-000213",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000127",
+    "employee_id": "EMP-004715",
+    "skill_id": "SKL-000245",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000128",
+    "employee_id": "EMP-000755",
+    "skill_id": "SKL-000253",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000129",
+    "employee_id": "EMP-003365",
+    "skill_id": "SKL-000215",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000130",
+    "employee_id": "EMP-001166",
+    "skill_id": "SKL-000223",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000131",
+    "employee_id": "EMP-002599",
+    "skill_id": "SKL-000257",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000132",
+    "employee_id": "EMP-004684",
+    "skill_id": "SKL-000084",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000133",
+    "employee_id": "EMP-003069",
+    "skill_id": "SKL-000059",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000134",
+    "employee_id": "EMP-003509",
+    "skill_id": "SKL-000207",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000135",
+    "employee_id": "EMP-004707",
+    "skill_id": "SKL-000282",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000136",
+    "employee_id": "EMP-004060",
+    "skill_id": "SKL-000070",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000137",
+    "employee_id": "EMP-001681",
+    "skill_id": "SKL-000086",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000138",
+    "employee_id": "EMP-000235",
+    "skill_id": "SKL-000066",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000139",
+    "employee_id": "EMP-003709",
+    "skill_id": "SKL-000166",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000140",
+    "employee_id": "EMP-001720",
+    "skill_id": "SKL-000006",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000141",
+    "employee_id": "EMP-004994",
+    "skill_id": "SKL-000113",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000142",
+    "employee_id": "EMP-003962",
+    "skill_id": "SKL-000173",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000143",
+    "employee_id": "EMP-000628",
+    "skill_id": "SKL-000151",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000144",
+    "employee_id": "EMP-003628",
+    "skill_id": "SKL-000183",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000145",
+    "employee_id": "EMP-000571",
+    "skill_id": "SKL-000175",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000146",
+    "employee_id": "EMP-004706",
+    "skill_id": "SKL-000071",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000147",
+    "employee_id": "EMP-002000",
+    "skill_id": "SKL-000213",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000148",
+    "employee_id": "EMP-001322",
+    "skill_id": "SKL-000118",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000149",
+    "employee_id": "EMP-001548",
+    "skill_id": "SKL-000007",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000150",
+    "employee_id": "EMP-004588",
+    "skill_id": "SKL-000042",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000151",
+    "employee_id": "EMP-002737",
+    "skill_id": "SKL-000077",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000152",
+    "employee_id": "EMP-004820",
+    "skill_id": "SKL-000149",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000153",
+    "employee_id": "EMP-000517",
+    "skill_id": "SKL-000010",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000154",
+    "employee_id": "EMP-003979",
+    "skill_id": "SKL-000186",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000155",
+    "employee_id": "EMP-001610",
+    "skill_id": "SKL-000163",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000156",
+    "employee_id": "EMP-001089",
+    "skill_id": "SKL-000243",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000157",
+    "employee_id": "EMP-004923",
+    "skill_id": "SKL-000107",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000158",
+    "employee_id": "EMP-001493",
+    "skill_id": "SKL-000058",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000159",
+    "employee_id": "EMP-004284",
+    "skill_id": "SKL-000134",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000160",
+    "employee_id": "EMP-000250",
+    "skill_id": "SKL-000088",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000161",
+    "employee_id": "EMP-003724",
+    "skill_id": "SKL-000043",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000162",
+    "employee_id": "EMP-004239",
+    "skill_id": "SKL-000240",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000163",
+    "employee_id": "EMP-000701",
+    "skill_id": "SKL-000228",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000164",
+    "employee_id": "EMP-003815",
+    "skill_id": "SKL-000280",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000165",
+    "employee_id": "EMP-003068",
+    "skill_id": "SKL-000013",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000166",
+    "employee_id": "EMP-002005",
+    "skill_id": "SKL-000112",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000167",
+    "employee_id": "EMP-003779",
+    "skill_id": "SKL-000097",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000168",
+    "employee_id": "EMP-000490",
+    "skill_id": "SKL-000230",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000169",
+    "employee_id": "EMP-004235",
+    "skill_id": "SKL-000161",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000170",
+    "employee_id": "EMP-001280",
+    "skill_id": "SKL-000039",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000171",
+    "employee_id": "EMP-000997",
+    "skill_id": "SKL-000160",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000172",
+    "employee_id": "EMP-004467",
+    "skill_id": "SKL-000216",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000173",
+    "employee_id": "EMP-002631",
+    "skill_id": "SKL-000189",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000174",
+    "employee_id": "EMP-001373",
+    "skill_id": "SKL-000006",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000175",
+    "employee_id": "EMP-000152",
+    "skill_id": "SKL-000178",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000176",
+    "employee_id": "EMP-001109",
+    "skill_id": "SKL-000247",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000177",
+    "employee_id": "EMP-001965",
+    "skill_id": "SKL-000186",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000178",
+    "employee_id": "EMP-003800",
+    "skill_id": "SKL-000034",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000179",
+    "employee_id": "EMP-001894",
+    "skill_id": "SKL-000283",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000180",
+    "employee_id": "EMP-000502",
+    "skill_id": "SKL-000118",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000181",
+    "employee_id": "EMP-004587",
+    "skill_id": "SKL-000128",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000182",
+    "employee_id": "EMP-004650",
+    "skill_id": "SKL-000017",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000183",
+    "employee_id": "EMP-003311",
+    "skill_id": "SKL-000286",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000184",
+    "employee_id": "EMP-003954",
+    "skill_id": "SKL-000246",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000185",
+    "employee_id": "EMP-003032",
+    "skill_id": "SKL-000218",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000186",
+    "employee_id": "EMP-001490",
+    "skill_id": "SKL-000161",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000187",
+    "employee_id": "EMP-000469",
+    "skill_id": "SKL-000111",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000188",
+    "employee_id": "EMP-000613",
+    "skill_id": "SKL-000014",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000189",
+    "employee_id": "EMP-001331",
+    "skill_id": "SKL-000223",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000190",
+    "employee_id": "EMP-001472",
+    "skill_id": "SKL-000077",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000191",
+    "employee_id": "EMP-003364",
+    "skill_id": "SKL-000216",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000192",
+    "employee_id": "EMP-003090",
+    "skill_id": "SKL-000180",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000193",
+    "employee_id": "EMP-001320",
+    "skill_id": "SKL-000120",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000194",
+    "employee_id": "EMP-001920",
+    "skill_id": "SKL-000172",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000195",
+    "employee_id": "EMP-000348",
+    "skill_id": "SKL-000065",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000196",
+    "employee_id": "EMP-004266",
+    "skill_id": "SKL-000243",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000197",
+    "employee_id": "EMP-004313",
+    "skill_id": "SKL-000169",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000198",
+    "employee_id": "EMP-000845",
+    "skill_id": "SKL-000112",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000199",
+    "employee_id": "EMP-001143",
+    "skill_id": "SKL-000287",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000200",
+    "employee_id": "EMP-000935",
+    "skill_id": "SKL-000212",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000201",
+    "employee_id": "EMP-000351",
+    "skill_id": "SKL-000115",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000202",
+    "employee_id": "EMP-002618",
+    "skill_id": "SKL-000037",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000203",
+    "employee_id": "EMP-000863",
+    "skill_id": "SKL-000159",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000204",
+    "employee_id": "EMP-002512",
+    "skill_id": "SKL-000044",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000205",
+    "employee_id": "EMP-002921",
+    "skill_id": "SKL-000117",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000206",
+    "employee_id": "EMP-003764",
+    "skill_id": "SKL-000063",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000207",
+    "employee_id": "EMP-001836",
+    "skill_id": "SKL-000261",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000208",
+    "employee_id": "EMP-002196",
+    "skill_id": "SKL-000143",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000209",
+    "employee_id": "EMP-001739",
+    "skill_id": "SKL-000046",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000210",
+    "employee_id": "EMP-004332",
+    "skill_id": "SKL-000166",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000211",
+    "employee_id": "EMP-001315",
+    "skill_id": "SKL-000053",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000212",
+    "employee_id": "EMP-001028",
+    "skill_id": "SKL-000022",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000213",
+    "employee_id": "EMP-003347",
+    "skill_id": "SKL-000080",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000214",
+    "employee_id": "EMP-004730",
+    "skill_id": "SKL-000232",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000215",
+    "employee_id": "EMP-002713",
+    "skill_id": "SKL-000065",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000216",
+    "employee_id": "EMP-004327",
+    "skill_id": "SKL-000157",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000217",
+    "employee_id": "EMP-002309",
+    "skill_id": "SKL-000024",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000218",
+    "employee_id": "EMP-001938",
+    "skill_id": "SKL-000220",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000219",
+    "employee_id": "EMP-001682",
+    "skill_id": "SKL-000061",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000220",
+    "employee_id": "EMP-003309",
+    "skill_id": "SKL-000074",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000221",
+    "employee_id": "EMP-000867",
+    "skill_id": "SKL-000064",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000222",
+    "employee_id": "EMP-002396",
+    "skill_id": "SKL-000144",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000223",
+    "employee_id": "EMP-003891",
+    "skill_id": "SKL-000251",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000224",
+    "employee_id": "EMP-004895",
+    "skill_id": "SKL-000059",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000225",
+    "employee_id": "EMP-003933",
+    "skill_id": "SKL-000021",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000226",
+    "employee_id": "EMP-000711",
+    "skill_id": "SKL-000238",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000227",
+    "employee_id": "EMP-000883",
+    "skill_id": "SKL-000205",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000228",
+    "employee_id": "EMP-002768",
+    "skill_id": "SKL-000162",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000229",
+    "employee_id": "EMP-000660",
+    "skill_id": "SKL-000112",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000230",
+    "employee_id": "EMP-000550",
+    "skill_id": "SKL-000204",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000231",
+    "employee_id": "EMP-003392",
+    "skill_id": "SKL-000198",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000232",
+    "employee_id": "EMP-002803",
+    "skill_id": "SKL-000100",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000233",
+    "employee_id": "EMP-004592",
+    "skill_id": "SKL-000156",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000234",
+    "employee_id": "EMP-001469",
+    "skill_id": "SKL-000031",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000235",
+    "employee_id": "EMP-000103",
+    "skill_id": "SKL-000230",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000236",
+    "employee_id": "EMP-001287",
+    "skill_id": "SKL-000027",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000237",
+    "employee_id": "EMP-000818",
+    "skill_id": "SKL-000012",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000238",
+    "employee_id": "EMP-000498",
+    "skill_id": "SKL-000145",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000239",
+    "employee_id": "EMP-004898",
+    "skill_id": "SKL-000014",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000240",
+    "employee_id": "EMP-004854",
+    "skill_id": "SKL-000081",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000241",
+    "employee_id": "EMP-002988",
+    "skill_id": "SKL-000217",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000242",
+    "employee_id": "EMP-001210",
+    "skill_id": "SKL-000116",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000243",
+    "employee_id": "EMP-003737",
+    "skill_id": "SKL-000126",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000244",
+    "employee_id": "EMP-004257",
+    "skill_id": "SKL-000094",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000245",
+    "employee_id": "EMP-004625",
+    "skill_id": "SKL-000032",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000246",
+    "employee_id": "EMP-001003",
+    "skill_id": "SKL-000261",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000247",
+    "employee_id": "EMP-004330",
+    "skill_id": "SKL-000212",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000248",
+    "employee_id": "EMP-003850",
+    "skill_id": "SKL-000188",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000249",
+    "employee_id": "EMP-000245",
+    "skill_id": "SKL-000150",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000250",
+    "employee_id": "EMP-001622",
+    "skill_id": "SKL-000221",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000251",
+    "employee_id": "EMP-003186",
+    "skill_id": "SKL-000090",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000252",
+    "employee_id": "EMP-000766",
+    "skill_id": "SKL-000081",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000253",
+    "employee_id": "EMP-002168",
+    "skill_id": "SKL-000278",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000254",
+    "employee_id": "EMP-003575",
+    "skill_id": "SKL-000076",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000255",
+    "employee_id": "EMP-004364",
+    "skill_id": "SKL-000036",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000256",
+    "employee_id": "EMP-000252",
+    "skill_id": "SKL-000133",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000257",
+    "employee_id": "EMP-000342",
+    "skill_id": "SKL-000259",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000258",
+    "employee_id": "EMP-002411",
+    "skill_id": "SKL-000026",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000259",
+    "employee_id": "EMP-003280",
+    "skill_id": "SKL-000181",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000260",
+    "employee_id": "EMP-001447",
+    "skill_id": "SKL-000030",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000261",
+    "employee_id": "EMP-001813",
+    "skill_id": "SKL-000207",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000262",
+    "employee_id": "EMP-000388",
+    "skill_id": "SKL-000104",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000263",
+    "employee_id": "EMP-004950",
+    "skill_id": "SKL-000204",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000264",
+    "employee_id": "EMP-004646",
+    "skill_id": "SKL-000101",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000265",
+    "employee_id": "EMP-003485",
+    "skill_id": "SKL-000083",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000266",
+    "employee_id": "EMP-000824",
+    "skill_id": "SKL-000160",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000267",
+    "employee_id": "EMP-000505",
+    "skill_id": "SKL-000188",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000268",
+    "employee_id": "EMP-000227",
+    "skill_id": "SKL-000087",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000269",
+    "employee_id": "EMP-002944",
+    "skill_id": "SKL-000299",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000270",
+    "employee_id": "EMP-003255",
+    "skill_id": "SKL-000289",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000271",
+    "employee_id": "EMP-000338",
+    "skill_id": "SKL-000222",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000272",
+    "employee_id": "EMP-000802",
+    "skill_id": "SKL-000036",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000273",
+    "employee_id": "EMP-001256",
+    "skill_id": "SKL-000280",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000274",
+    "employee_id": "EMP-000439",
+    "skill_id": "SKL-000276",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000275",
+    "employee_id": "EMP-002529",
+    "skill_id": "SKL-000170",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000276",
+    "employee_id": "EMP-000794",
+    "skill_id": "SKL-000282",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000277",
+    "employee_id": "EMP-003769",
+    "skill_id": "SKL-000022",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000278",
+    "employee_id": "EMP-000418",
+    "skill_id": "SKL-000067",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000279",
+    "employee_id": "EMP-000189",
+    "skill_id": "SKL-000181",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000280",
+    "employee_id": "EMP-000258",
+    "skill_id": "SKL-000219",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000281",
+    "employee_id": "EMP-004337",
+    "skill_id": "SKL-000257",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000282",
+    "employee_id": "EMP-002128",
+    "skill_id": "SKL-000258",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000283",
+    "employee_id": "EMP-003636",
+    "skill_id": "SKL-000053",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000284",
+    "employee_id": "EMP-001176",
+    "skill_id": "SKL-000231",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000285",
+    "employee_id": "EMP-003367",
+    "skill_id": "SKL-000285",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000286",
+    "employee_id": "EMP-002093",
+    "skill_id": "SKL-000288",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000287",
+    "employee_id": "EMP-000378",
+    "skill_id": "SKL-000223",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000288",
+    "employee_id": "EMP-003473",
+    "skill_id": "SKL-000279",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000289",
+    "employee_id": "EMP-003510",
+    "skill_id": "SKL-000250",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000290",
+    "employee_id": "EMP-002553",
+    "skill_id": "SKL-000239",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000291",
+    "employee_id": "EMP-002876",
+    "skill_id": "SKL-000186",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000292",
+    "employee_id": "EMP-001231",
+    "skill_id": "SKL-000035",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000293",
+    "employee_id": "EMP-000542",
+    "skill_id": "SKL-000079",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000294",
+    "employee_id": "EMP-001624",
+    "skill_id": "SKL-000221",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000295",
+    "employee_id": "EMP-001095",
+    "skill_id": "SKL-000171",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000296",
+    "employee_id": "EMP-000053",
+    "skill_id": "SKL-000170",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000297",
+    "employee_id": "EMP-003205",
+    "skill_id": "SKL-000295",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000298",
+    "employee_id": "EMP-000888",
+    "skill_id": "SKL-000190",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000299",
+    "employee_id": "EMP-002430",
+    "skill_id": "SKL-000265",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000300",
+    "employee_id": "EMP-002235",
+    "skill_id": "SKL-000022",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000301",
+    "employee_id": "EMP-001982",
+    "skill_id": "SKL-000132",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000302",
+    "employee_id": "EMP-003874",
+    "skill_id": "SKL-000189",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000303",
+    "employee_id": "EMP-000984",
+    "skill_id": "SKL-000174",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000304",
+    "employee_id": "EMP-000519",
+    "skill_id": "SKL-000234",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000305",
+    "employee_id": "EMP-001084",
+    "skill_id": "SKL-000229",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000306",
+    "employee_id": "EMP-002947",
+    "skill_id": "SKL-000053",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000307",
+    "employee_id": "EMP-002920",
+    "skill_id": "SKL-000152",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000308",
+    "employee_id": "EMP-003146",
+    "skill_id": "SKL-000175",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000309",
+    "employee_id": "EMP-002890",
+    "skill_id": "SKL-000141",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000310",
+    "employee_id": "EMP-000760",
+    "skill_id": "SKL-000255",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000311",
+    "employee_id": "EMP-003702",
+    "skill_id": "SKL-000118",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000312",
+    "employee_id": "EMP-002210",
+    "skill_id": "SKL-000240",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000313",
+    "employee_id": "EMP-004922",
+    "skill_id": "SKL-000266",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000314",
+    "employee_id": "EMP-003755",
+    "skill_id": "SKL-000124",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000315",
+    "employee_id": "EMP-004331",
+    "skill_id": "SKL-000120",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000316",
+    "employee_id": "EMP-000021",
+    "skill_id": "SKL-000066",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000317",
+    "employee_id": "EMP-004427",
+    "skill_id": "SKL-000012",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000318",
+    "employee_id": "EMP-003371",
+    "skill_id": "SKL-000007",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000319",
+    "employee_id": "EMP-003573",
+    "skill_id": "SKL-000139",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000320",
+    "employee_id": "EMP-004622",
+    "skill_id": "SKL-000110",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000321",
+    "employee_id": "EMP-003829",
+    "skill_id": "SKL-000273",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000322",
+    "employee_id": "EMP-000399",
+    "skill_id": "SKL-000021",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000323",
+    "employee_id": "EMP-003478",
+    "skill_id": "SKL-000099",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000324",
+    "employee_id": "EMP-002581",
+    "skill_id": "SKL-000094",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000325",
+    "employee_id": "EMP-000558",
+    "skill_id": "SKL-000075",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000326",
+    "employee_id": "EMP-001410",
+    "skill_id": "SKL-000055",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000327",
+    "employee_id": "EMP-002501",
+    "skill_id": "SKL-000083",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000328",
+    "employee_id": "EMP-001830",
+    "skill_id": "SKL-000009",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000329",
+    "employee_id": "EMP-000156",
+    "skill_id": "SKL-000152",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000330",
+    "employee_id": "EMP-004558",
+    "skill_id": "SKL-000119",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000331",
+    "employee_id": "EMP-002486",
+    "skill_id": "SKL-000114",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000332",
+    "employee_id": "EMP-000265",
+    "skill_id": "SKL-000081",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000333",
+    "employee_id": "EMP-003728",
+    "skill_id": "SKL-000038",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000334",
+    "employee_id": "EMP-001701",
+    "skill_id": "SKL-000169",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000335",
+    "employee_id": "EMP-002143",
+    "skill_id": "SKL-000214",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000336",
+    "employee_id": "EMP-004986",
+    "skill_id": "SKL-000075",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000337",
+    "employee_id": "EMP-000175",
+    "skill_id": "SKL-000157",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000338",
+    "employee_id": "EMP-004802",
+    "skill_id": "SKL-000281",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000339",
+    "employee_id": "EMP-003077",
+    "skill_id": "SKL-000083",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000340",
+    "employee_id": "EMP-000239",
+    "skill_id": "SKL-000033",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000341",
+    "employee_id": "EMP-000237",
+    "skill_id": "SKL-000158",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000342",
+    "employee_id": "EMP-000115",
+    "skill_id": "SKL-000159",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000343",
+    "employee_id": "EMP-004874",
+    "skill_id": "SKL-000243",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000344",
+    "employee_id": "EMP-000966",
+    "skill_id": "SKL-000010",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000345",
+    "employee_id": "EMP-002781",
+    "skill_id": "SKL-000012",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000346",
+    "employee_id": "EMP-000564",
+    "skill_id": "SKL-000274",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000347",
+    "employee_id": "EMP-004394",
+    "skill_id": "SKL-000054",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000348",
+    "employee_id": "EMP-000552",
+    "skill_id": "SKL-000056",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000349",
+    "employee_id": "EMP-000020",
+    "skill_id": "SKL-000218",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000350",
+    "employee_id": "EMP-003914",
+    "skill_id": "SKL-000252",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000351",
+    "employee_id": "EMP-001125",
+    "skill_id": "SKL-000297",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000352",
+    "employee_id": "EMP-000744",
+    "skill_id": "SKL-000226",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000353",
+    "employee_id": "EMP-004667",
+    "skill_id": "SKL-000234",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000354",
+    "employee_id": "EMP-003821",
+    "skill_id": "SKL-000080",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000355",
+    "employee_id": "EMP-001555",
+    "skill_id": "SKL-000173",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000356",
+    "employee_id": "EMP-002612",
+    "skill_id": "SKL-000060",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000357",
+    "employee_id": "EMP-003770",
+    "skill_id": "SKL-000161",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000358",
+    "employee_id": "EMP-003574",
+    "skill_id": "SKL-000010",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000359",
+    "employee_id": "EMP-001269",
+    "skill_id": "SKL-000099",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000360",
+    "employee_id": "EMP-000133",
+    "skill_id": "SKL-000097",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000361",
+    "employee_id": "EMP-002203",
+    "skill_id": "SKL-000058",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000362",
+    "employee_id": "EMP-001355",
+    "skill_id": "SKL-000205",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000363",
+    "employee_id": "EMP-002856",
+    "skill_id": "SKL-000007",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000364",
+    "employee_id": "EMP-004626",
+    "skill_id": "SKL-000062",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000365",
+    "employee_id": "EMP-003992",
+    "skill_id": "SKL-000196",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000366",
+    "employee_id": "EMP-003293",
+    "skill_id": "SKL-000010",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000367",
+    "employee_id": "EMP-000444",
+    "skill_id": "SKL-000164",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000368",
+    "employee_id": "EMP-002312",
+    "skill_id": "SKL-000017",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000369",
+    "employee_id": "EMP-003180",
+    "skill_id": "SKL-000061",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000370",
+    "employee_id": "EMP-000973",
+    "skill_id": "SKL-000190",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000371",
+    "employee_id": "EMP-004134",
+    "skill_id": "SKL-000008",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000372",
+    "employee_id": "EMP-003650",
+    "skill_id": "SKL-000057",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000373",
+    "employee_id": "EMP-003387",
+    "skill_id": "SKL-000030",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000374",
+    "employee_id": "EMP-004268",
+    "skill_id": "SKL-000017",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000375",
+    "employee_id": "EMP-002865",
+    "skill_id": "SKL-000079",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000376",
+    "employee_id": "EMP-002108",
+    "skill_id": "SKL-000135",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000377",
+    "employee_id": "EMP-001601",
+    "skill_id": "SKL-000165",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000378",
+    "employee_id": "EMP-002423",
+    "skill_id": "SKL-000035",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000379",
+    "employee_id": "EMP-004788",
+    "skill_id": "SKL-000016",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000380",
+    "employee_id": "EMP-002342",
+    "skill_id": "SKL-000002",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000381",
+    "employee_id": "EMP-004801",
+    "skill_id": "SKL-000181",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000382",
+    "employee_id": "EMP-000443",
+    "skill_id": "SKL-000272",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000383",
+    "employee_id": "EMP-002153",
+    "skill_id": "SKL-000055",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000384",
+    "employee_id": "EMP-001665",
+    "skill_id": "SKL-000228",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000385",
+    "employee_id": "EMP-004345",
+    "skill_id": "SKL-000097",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000386",
+    "employee_id": "EMP-002739",
+    "skill_id": "SKL-000090",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000387",
+    "employee_id": "EMP-001863",
+    "skill_id": "SKL-000259",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000388",
+    "employee_id": "EMP-002870",
+    "skill_id": "SKL-000216",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000389",
+    "employee_id": "EMP-004142",
+    "skill_id": "SKL-000148",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000390",
+    "employee_id": "EMP-002936",
+    "skill_id": "SKL-000005",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000391",
+    "employee_id": "EMP-002463",
+    "skill_id": "SKL-000148",
+    "status": "IN_PROGRESS",
+    "hours": 40.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000392",
+    "employee_id": "EMP-003163",
+    "skill_id": "SKL-000155",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000393",
+    "employee_id": "EMP-001567",
+    "skill_id": "SKL-000236",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000394",
+    "employee_id": "EMP-003019",
+    "skill_id": "SKL-000061",
+    "status": "PLANNED",
+    "hours": 40.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000395",
+    "employee_id": "EMP-003980",
+    "skill_id": "SKL-000039",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000396",
+    "employee_id": "EMP-000428",
+    "skill_id": "SKL-000209",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000397",
+    "employee_id": "EMP-002047",
+    "skill_id": "SKL-000084",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000398",
+    "employee_id": "EMP-002275",
+    "skill_id": "SKL-000116",
+    "status": "PLANNED",
+    "hours": 8.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000399",
+    "employee_id": "EMP-002839",
+    "skill_id": "SKL-000024",
+    "status": "COMPLETED",
+    "hours": 8.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000400",
+    "employee_id": "EMP-004312",
+    "skill_id": "SKL-000203",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000401",
+    "employee_id": "EMP-002194",
+    "skill_id": "SKL-000105",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000402",
+    "employee_id": "EMP-004444",
+    "skill_id": "SKL-000277",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000403",
+    "employee_id": "EMP-004052",
+    "skill_id": "SKL-000139",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000404",
+    "employee_id": "EMP-000682",
+    "skill_id": "SKL-000196",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000405",
+    "employee_id": "EMP-003502",
+    "skill_id": "SKL-000103",
+    "status": "COMPLETED",
+    "hours": 16.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000406",
+    "employee_id": "EMP-000903",
+    "skill_id": "SKL-000225",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000407",
+    "employee_id": "EMP-004691",
+    "skill_id": "SKL-000202",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000408",
+    "employee_id": "EMP-003056",
+    "skill_id": "SKL-000144",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000409",
+    "employee_id": "EMP-004701",
+    "skill_id": "SKL-000049",
+    "status": "PLANNED",
+    "hours": 16.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000410",
+    "employee_id": "EMP-004516",
+    "skill_id": "SKL-000140",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000411",
+    "employee_id": "EMP-001662",
+    "skill_id": "SKL-000139",
+    "status": "IN_PROGRESS",
+    "hours": 24.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000412",
+    "employee_id": "EMP-004884",
+    "skill_id": "SKL-000293",
+    "status": "COMPLETED",
+    "hours": 40.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  },
+  {
+    "id": "TRN-0000413",
+    "employee_id": "EMP-004528",
+    "skill_id": "SKL-000161",
+    "status": "IN_PROGRESS",
+    "hours": 16.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000414",
+    "employee_id": "EMP-001402",
+    "skill_id": "SKL-000154",
+    "status": "IN_PROGRESS",
+    "hours": 8.0,
+    "started_on": "2026-10-20",
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000415",
+    "employee_id": "EMP-004184",
+    "skill_id": "SKL-000141",
+    "status": "PLANNED",
+    "hours": 24.0,
+    "started_on": null,
+    "completed_on": null
+  },
+  {
+    "id": "TRN-0000416",
+    "employee_id": "EMP-000591",
+    "skill_id": "SKL-000194",
+    "status": "COMPLETED",
+    "hours": 24.0,
+    "started_on": "2026-09-20",
+    "completed_on": "2026-10-20"
+  }
+]

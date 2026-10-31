@@ -1,0 +1,301 @@
+id,name,category,verification_days
+SKL-000001,Python,Data,540
+SKL-000002,FastAPI,Data,180
+SKL-000003,Django,Technical,180
+SKL-000004,Java,Cloud,180
+SKL-000005,Spring Boot,Technical,540
+SKL-000006,JavaScript,Business,180
+SKL-000007,TypeScript,Technical,180
+SKL-000008,React,Cloud,365
+SKL-000009,Next.js,Business,180
+SKL-000010,SQL,Cloud,180
+SKL-000011,PostgreSQL,Business,180
+SKL-000012,MongoDB,Cloud,540
+SKL-000013,Machine Learning,Quality,180
+SKL-000014,Deep Learning,Business,180
+SKL-000015,Natural Language Processing,Data,180
+SKL-000016,PyTorch,Business,365
+SKL-000017,TensorFlow,Quality,180
+SKL-000018,Docker,Technical,180
+SKL-000019,Kubernetes,Cloud,365
+SKL-000020,AWS,Technical,180
+SKL-000021,Azure,Business,180
+SKL-000022,Git,Business,540
+SKL-000023,CI/CD,Data,180
+SKL-000024,Playwright,Cloud,365
+SKL-000025,Selenium,Business,365
+SKL-000026,Manual Testing,Technical,365
+SKL-000027,Automation Testing,Quality,540
+SKL-000028,Data Analysis,Technical,180
+SKL-000029,Power BI,Quality,540
+SKL-000030,Pandas,Cloud,180
+SKL-000031,NumPy,Technical,365
+SKL-000032,REST API,Technical,365
+SKL-000033,Microservices,Business,180
+SKL-000034,Linux,Technical,180
+SKL-000035,Communication,Technical,365
+SKL-000036,Agile,Cloud,540
+SKL-000037,Project Management,Quality,365
+SKL-000038,System Design,Technical,540
+SKL-000039,HTML,Business,180
+SKL-000040,CSS,Data,180
+SKL-000041,Specialized Skill 041,Business,365
+SKL-000042,Specialized Skill 042,Technical,540
+SKL-000043,Specialized Skill 043,Quality,180
+SKL-000044,Specialized Skill 044,Cloud,180
+SKL-000045,Specialized Skill 045,Cloud,365
+SKL-000046,Specialized Skill 046,Business,540
+SKL-000047,Specialized Skill 047,Business,540
+SKL-000048,Specialized Skill 048,Data,540
+SKL-000049,Specialized Skill 049,Technical,365
+SKL-000050,Specialized Skill 050,Quality,180
+SKL-000051,Specialized Skill 051,Technical,180
+SKL-000052,Specialized Skill 052,Data,540
+SKL-000053,Specialized Skill 053,Business,180
+SKL-000054,Specialized Skill 054,Technical,540
+SKL-000055,Specialized Skill 055,Business,180
+SKL-000056,Specialized Skill 056,Quality,540
+SKL-000057,Specialized Skill 057,Data,365
+SKL-000058,Specialized Skill 058,Technical,365
+SKL-000059,Specialized Skill 059,Data,540
+SKL-000060,Specialized Skill 060,Cloud,540
+SKL-000061,Specialized Skill 061,Data,540
+SKL-000062,Specialized Skill 062,Business,540
+SKL-000063,Specialized Skill 063,Business,540
+SKL-000064,Specialized Skill 064,Business,365
+SKL-000065,Specialized Skill 065,Data,540
+SKL-000066,Specialized Skill 066,Data,365
+SKL-000067,Specialized Skill 067,Business,365
+SKL-000068,Specialized Skill 068,Business,540
+SKL-000069,Specialized Skill 069,Data,540
+SKL-000070,Specialized Skill 070,Data,180
+SKL-000071,Specialized Skill 071,Cloud,540
+SKL-000072,Specialized Skill 072,Cloud,365
+SKL-000073,Specialized Skill 073,Business,365
+SKL-000074,Specialized Skill 074,Quality,180
+SKL-000075,Specialized Skill 075,Technical,180
+SKL-000076,Specialized Skill 076,Quality,540
+SKL-000077,Specialized Skill 077,Business,365
+SKL-000078,Specialized Skill 078,Business,540
+SKL-000079,Specialized Skill 079,Cloud,540
+SKL-000080,Specialized Skill 080,Technical,540
+SKL-000081,Specialized Skill 081,Quality,365
+SKL-000082,Specialized Skill 082,Business,180
+SKL-000083,Specialized Skill 083,Cloud,365
+SKL-000084,Specialized Skill 084,Cloud,540
+SKL-000085,Specialized Skill 085,Technical,540
+SKL-000086,Specialized Skill 086,Quality,540
+SKL-000087,Specialized Skill 087,Business,365
+SKL-000088,Specialized Skill 088,Technical,180
+SKL-000089,Specialized Skill 089,Quality,365
+SKL-000090,Specialized Skill 090,Technical,365
+SKL-000091,Specialized Skill 091,Technical,540
+SKL-000092,Specialized Skill 092,Cloud,180
+SKL-000093,Specialized Skill 093,Data,540
+SKL-000094,Specialized Skill 094,Data,365
+SKL-000095,Specialized Skill 095,Business,540
+SKL-000096,Specialized Skill 096,Quality,180
+SKL-000097,Specialized Skill 097,Business,540
+SKL-000098,Specialized Skill 098,Technical,180
+SKL-000099,Specialized Skill 099,Cloud,365
+SKL-000100,Specialized Skill 100,Cloud,365
+SKL-000101,Specialized Skill 101,Technical,180
+SKL-000102,Specialized Skill 102,Cloud,365
+SKL-000103,Specialized Skill 103,Cloud,180
+SKL-000104,Specialized Skill 104,Quality,365
+SKL-000105,Specialized Skill 105,Data,180
+SKL-000106,Specialized Skill 106,Quality,365
+SKL-000107,Specialized Skill 107,Business,365
+SKL-000108,Specialized Skill 108,Technical,180
+SKL-000109,Specialized Skill 109,Technical,540
+SKL-000110,Specialized Skill 110,Quality,540
+SKL-000111,Specialized Skill 111,Cloud,365
+SKL-000112,Specialized Skill 112,Cloud,180
+SKL-000113,Specialized Skill 113,Data,180
+SKL-000114,Specialized Skill 114,Quality,365
+SKL-000115,Specialized Skill 115,Quality,365
+SKL-000116,Specialized Skill 116,Quality,365
+SKL-000117,Specialized Skill 117,Technical,540
+SKL-000118,Specialized Skill 118,Cloud,540
+SKL-000119,Specialized Skill 119,Cloud,540
+SKL-000120,Specialized Skill 120,Cloud,365
+SKL-000121,Specialized Skill 121,Business,540
+SKL-000122,Specialized Skill 122,Quality,180
+SKL-000123,Specialized Skill 123,Quality,540
+SKL-000124,Specialized Skill 124,Business,540
+SKL-000125,Specialized Skill 125,Technical,180
+SKL-000126,Specialized Skill 126,Technical,180
+SKL-000127,Specialized Skill 127,Business,365
+SKL-000128,Specialized Skill 128,Technical,540
+SKL-000129,Specialized Skill 129,Cloud,540
+SKL-000130,Specialized Skill 130,Business,540
+SKL-000131,Specialized Skill 131,Data,180
+SKL-000132,Specialized Skill 132,Business,365
+SKL-000133,Specialized Skill 133,Data,180
+SKL-000134,Specialized Skill 134,Business,365
+SKL-000135,Specialized Skill 135,Business,365
+SKL-000136,Specialized Skill 136,Technical,180
+SKL-000137,Specialized Skill 137,Business,540
+SKL-000138,Specialized Skill 138,Data,180
+SKL-000139,Specialized Skill 139,Data,180
+SKL-000140,Specialized Skill 140,Data,365
+SKL-000141,Specialized Skill 141,Data,540
+SKL-000142,Specialized Skill 142,Technical,180
+SKL-000143,Specialized Skill 143,Business,180
+SKL-000144,Specialized Skill 144,Quality,540
+SKL-000145,Specialized Skill 145,Cloud,365
+SKL-000146,Specialized Skill 146,Quality,540
+SKL-000147,Specialized Skill 147,Data,365
+SKL-000148,Specialized Skill 148,Cloud,540
+SKL-000149,Specialized Skill 149,Cloud,180
+SKL-000150,Specialized Skill 150,Cloud,540
+SKL-000151,Specialized Skill 151,Technical,540
+SKL-000152,Specialized Skill 152,Data,365
+SKL-000153,Specialized Skill 153,Data,365
+SKL-000154,Specialized Skill 154,Data,540
+SKL-000155,Specialized Skill 155,Cloud,365
+SKL-000156,Specialized Skill 156,Business,180
+SKL-000157,Specialized Skill 157,Data,365
+SKL-000158,Specialized Skill 158,Technical,540
+SKL-000159,Specialized Skill 159,Business,365
+SKL-000160,Specialized Skill 160,Technical,540
+SKL-000161,Specialized Skill 161,Business,540
+SKL-000162,Specialized Skill 162,Quality,365
+SKL-000163,Specialized Skill 163,Technical,365
+SKL-000164,Specialized Skill 164,Data,180
+SKL-000165,Specialized Skill 165,Data,540
+SKL-000166,Specialized Skill 166,Data,180
+SKL-000167,Specialized Skill 167,Quality,540
+SKL-000168,Specialized Skill 168,Quality,365
+SKL-000169,Specialized Skill 169,Technical,365
+SKL-000170,Specialized Skill 170,Technical,180
+SKL-000171,Specialized Skill 171,Business,540
+SKL-000172,Specialized Skill 172,Business,180
+SKL-000173,Specialized Skill 173,Cloud,180
+SKL-000174,Specialized Skill 174,Technical,365
+SKL-000175,Specialized Skill 175,Data,180
+SKL-000176,Specialized Skill 176,Data,365
+SKL-000177,Specialized Skill 177,Business,540
+SKL-000178,Specialized Skill 178,Business,180
+SKL-000179,Specialized Skill 179,Business,180
+SKL-000180,Specialized Skill 180,Quality,540
+SKL-000181,Specialized Skill 181,Technical,365
+SKL-000182,Specialized Skill 182,Technical,540
+SKL-000183,Specialized Skill 183,Data,180
+SKL-000184,Specialized Skill 184,Business,540
+SKL-000185,Specialized Skill 185,Quality,365
+SKL-000186,Specialized Skill 186,Cloud,365
+SKL-000187,Specialized Skill 187,Data,365
+SKL-000188,Specialized Skill 188,Business,180
+SKL-000189,Specialized Skill 189,Data,365
+SKL-000190,Specialized Skill 190,Quality,180
+SKL-000191,Specialized Skill 191,Technical,365
+SKL-000192,Specialized Skill 192,Cloud,540
+SKL-000193,Specialized Skill 193,Data,540
+SKL-000194,Specialized Skill 194,Data,365
+SKL-000195,Specialized Skill 195,Cloud,540
+SKL-000196,Specialized Skill 196,Data,540
+SKL-000197,Specialized Skill 197,Technical,180
+SKL-000198,Specialized Skill 198,Cloud,540
+SKL-000199,Specialized Skill 199,Data,180
+SKL-000200,Specialized Skill 200,Technical,365
+SKL-000201,Specialized Skill 201,Business,180
+SKL-000202,Specialized Skill 202,Cloud,365
+SKL-000203,Specialized Skill 203,Technical,180
+SKL-000204,Specialized Skill 204,Data,540
+SKL-000205,Specialized Skill 205,Cloud,180
+SKL-000206,Specialized Skill 206,Technical,180
+SKL-000207,Specialized Skill 207,Quality,365
+SKL-000208,Specialized Skill 208,Technical,540
+SKL-000209,Specialized Skill 209,Technical,540
+SKL-000210,Specialized Skill 210,Technical,365
+SKL-000211,Specialized Skill 211,Data,365
+SKL-000212,Specialized Skill 212,Data,540
+SKL-000213,Specialized Skill 213,Cloud,365
+SKL-000214,Specialized Skill 214,Business,180
+SKL-000215,Specialized Skill 215,Data,365
+SKL-000216,Specialized Skill 216,Business,540
+SKL-000217,Specialized Skill 217,Business,540
+SKL-000218,Specialized Skill 218,Quality,540
+SKL-000219,Specialized Skill 219,Data,180
+SKL-000220,Specialized Skill 220,Quality,365
+SKL-000221,Specialized Skill 221,Quality,180
+SKL-000222,Specialized Skill 222,Technical,180
+SKL-000223,Specialized Skill 223,Cloud,180
+SKL-000224,Specialized Skill 224,Data,180
+SKL-000225,Specialized Skill 225,Technical,180
+SKL-000226,Specialized Skill 226,Technical,365
+SKL-000227,Specialized Skill 227,Technical,365
+SKL-000228,Specialized Skill 228,Data,180
+SKL-000229,Specialized Skill 229,Business,540
+SKL-000230,Specialized Skill 230,Cloud,365
+SKL-000231,Specialized Skill 231,Data,180
+SKL-000232,Specialized Skill 232,Cloud,540
+SKL-000233,Specialized Skill 233,Quality,180
+SKL-000234,Specialized Skill 234,Quality,180
+SKL-000235,Specialized Skill 235,Quality,365
+SKL-000236,Specialized Skill 236,Cloud,180
+SKL-000237,Specialized Skill 237,Cloud,540
+SKL-000238,Specialized Skill 238,Technical,180
+SKL-000239,Specialized Skill 239,Cloud,180
+SKL-000240,Specialized Skill 240,Quality,180
+SKL-000241,Specialized Skill 241,Data,180
+SKL-000242,Specialized Skill 242,Cloud,180
+SKL-000243,Specialized Skill 243,Technical,180
+SKL-000244,Specialized Skill 244,Cloud,365
+SKL-000245,Specialized Skill 245,Quality,180
+SKL-000246,Specialized Skill 246,Technical,180
+SKL-000247,Specialized Skill 247,Cloud,365
+SKL-000248,Specialized Skill 248,Data,540
+SKL-000249,Specialized Skill 249,Business,365
+SKL-000250,Specialized Skill 250,Cloud,180
+SKL-000251,Specialized Skill 251,Business,180
+SKL-000252,Specialized Skill 252,Business,540
+SKL-000253,Specialized Skill 253,Cloud,180
+SKL-000254,Specialized Skill 254,Data,540
+SKL-000255,Specialized Skill 255,Technical,180
+SKL-000256,Specialized Skill 256,Quality,540
+SKL-000257,Specialized Skill 257,Data,180
+SKL-000258,Specialized Skill 258,Quality,180
+SKL-000259,Specialized Skill 259,Data,365
+SKL-000260,Specialized Skill 260,Data,180
+SKL-000261,Specialized Skill 261,Business,180
+SKL-000262,Specialized Skill 262,Business,180
+SKL-000263,Specialized Skill 263,Business,365
+SKL-000264,Specialized Skill 264,Data,180
+SKL-000265,Specialized Skill 265,Business,540
+SKL-000266,Specialized Skill 266,Quality,365
+SKL-000267,Specialized Skill 267,Cloud,540
+SKL-000268,Specialized Skill 268,Quality,180
+SKL-000269,Specialized Skill 269,Data,180
+SKL-000270,Specialized Skill 270,Quality,180
+SKL-000271,Specialized Skill 271,Data,365
+SKL-000272,Specialized Skill 272,Data,540
+SKL-000273,Specialized Skill 273,Quality,365
+SKL-000274,Specialized Skill 274,Data,540
+SKL-000275,Specialized Skill 275,Cloud,365
+SKL-000276,Specialized Skill 276,Technical,180
+SKL-000277,Specialized Skill 277,Business,540
+SKL-000278,Specialized Skill 278,Cloud,540
+SKL-000279,Specialized Skill 279,Cloud,365
+SKL-000280,Specialized Skill 280,Quality,180
+SKL-000281,Specialized Skill 281,Technical,180
+SKL-000282,Specialized Skill 282,Technical,540
+SKL-000283,Specialized Skill 283,Quality,365
+SKL-000284,Specialized Skill 284,Business,540
+SKL-000285,Specialized Skill 285,Business,180
+SKL-000286,Specialized Skill 286,Data,180
+SKL-000287,Specialized Skill 287,Business,540
+SKL-000288,Specialized Skill 288,Business,180
+SKL-000289,Specialized Skill 289,Technical,180
+SKL-000290,Specialized Skill 290,Data,540
+SKL-000291,Specialized Skill 291,Technical,540
+SKL-000292,Specialized Skill 292,Business,365
+SKL-000293,Specialized Skill 293,Data,180
+SKL-000294,Specialized Skill 294,Cloud,365
+SKL-000295,Specialized Skill 295,Data,365
+SKL-000296,Specialized Skill 296,Business,365
+SKL-000297,Specialized Skill 297,Cloud,180
+SKL-000298,Specialized Skill 298,Business,180
+SKL-000299,Specialized Skill 299,Cloud,540
+SKL-000300,Specialized Skill 300,Data,540

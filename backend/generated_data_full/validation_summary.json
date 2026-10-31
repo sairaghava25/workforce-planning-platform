@@ -1,0 +1,239 @@
+{
+  "checks": [
+    {
+      "check": "employees row count",
+      "status": "PASS",
+      "value": 5000
+    },
+    {
+      "check": "roles row count",
+      "status": "PASS",
+      "value": 12
+    },
+    {
+      "check": "skills row count",
+      "status": "PASS",
+      "value": 300
+    },
+    {
+      "check": "employee_skills row count",
+      "status": "PASS",
+      "value": 27454
+    },
+    {
+      "check": "projects row count",
+      "status": "PASS",
+      "value": 500
+    },
+    {
+      "check": "demand_plans row count",
+      "status": "PASS",
+      "value": 52421
+    },
+    {
+      "check": "allocations row count",
+      "status": "PASS",
+      "value": 120330
+    },
+    {
+      "check": "availability row count",
+      "status": "PASS",
+      "value": 265000
+    },
+    {
+      "check": "training row count",
+      "status": "PASS",
+      "value": 416
+    },
+    {
+      "check": "gap_analysis row count",
+      "status": "PASS",
+      "value": 52421
+    },
+    {
+      "check": "Employee IDs format",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Role IDs format",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Skill IDs format",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Employee-skill IDs format",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Project IDs format",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Demand IDs format",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Allocation IDs format",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Availability IDs format",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Training IDs format",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Gap IDs format",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Ground-truth IDs format",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Foreign key integrity",
+      "status": "ENFORCED_BY_DATABASE",
+      "value": "Declared foreign keys"
+    },
+    {
+      "check": "Employee lifecycle values",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Employee weekly hours",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Skill category values",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Skill verification days",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Employee skill date order",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Employee role department match",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Project lifecycle and priority values",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Demand lifecycle values",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Allocation lifecycle values",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Demand within project effective dates",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Employee skill proficiency range",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Availability arithmetic",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Availability bounds",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Allocation amount and date order",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Demand amount",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Demand version",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Project date order",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Training lifecycle",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Training hours",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Project lifecycle values",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Gap arithmetic",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Gap lifecycle status",
+      "status": "PASS",
+      "value": 0
+    },
+    {
+      "check": "Demand duplicate labels",
+      "status": "PASS",
+      "value": {
+        "duplicate_groups": 1,
+        "unlabelled_duplicate_rows": 0
+      }
+    },
+    {
+      "check": "Ground-truth target integrity",
+      "status": "PASS",
+      "value": 0
+    }
+  ],
+  "passed": 45,
+  "failed": 0
+}

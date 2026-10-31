@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "SKL-000001",
+    "name": "Python",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000002",
+    "name": "FastAPI",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000003",
+    "name": "Django",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000004",
+    "name": "Java",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000005",
+    "name": "Spring Boot",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000006",
+    "name": "JavaScript",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000007",
+    "name": "TypeScript",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000008",
+    "name": "React",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000009",
+    "name": "Next.js",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000010",
+    "name": "SQL",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000011",
+    "name": "PostgreSQL",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000012",
+    "name": "MongoDB",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000013",
+    "name": "Machine Learning",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000014",
+    "name": "Deep Learning",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000015",
+    "name": "Natural Language Processing",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000016",
+    "name": "PyTorch",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000017",
+    "name": "TensorFlow",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000018",
+    "name": "Docker",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000019",
+    "name": "Kubernetes",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000020",
+    "name": "AWS",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000021",
+    "name": "Azure",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000022",
+    "name": "Git",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000023",
+    "name": "CI/CD",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000024",
+    "name": "Playwright",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000025",
+    "name": "Selenium",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000026",
+    "name": "Manual Testing",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000027",
+    "name": "Automation Testing",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000028",
+    "name": "Data Analysis",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000029",
+    "name": "Power BI",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000030",
+    "name": "Pandas",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000031",
+    "name": "NumPy",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000032",
+    "name": "REST API",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000033",
+    "name": "Microservices",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000034",
+    "name": "Linux",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000035",
+    "name": "Communication",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000036",
+    "name": "Agile",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000037",
+    "name": "Project Management",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000038",
+    "name": "System Design",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000039",
+    "name": "HTML",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000040",
+    "name": "CSS",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000041",
+    "name": "Specialized Skill 041",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000042",
+    "name": "Specialized Skill 042",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000043",
+    "name": "Specialized Skill 043",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000044",
+    "name": "Specialized Skill 044",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000045",
+    "name": "Specialized Skill 045",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000046",
+    "name": "Specialized Skill 046",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000047",
+    "name": "Specialized Skill 047",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000048",
+    "name": "Specialized Skill 048",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000049",
+    "name": "Specialized Skill 049",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000050",
+    "name": "Specialized Skill 050",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000051",
+    "name": "Specialized Skill 051",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000052",
+    "name": "Specialized Skill 052",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000053",
+    "name": "Specialized Skill 053",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000054",
+    "name": "Specialized Skill 054",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000055",
+    "name": "Specialized Skill 055",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000056",
+    "name": "Specialized Skill 056",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000057",
+    "name": "Specialized Skill 057",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000058",
+    "name": "Specialized Skill 058",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000059",
+    "name": "Specialized Skill 059",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000060",
+    "name": "Specialized Skill 060",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000061",
+    "name": "Specialized Skill 061",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000062",
+    "name": "Specialized Skill 062",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000063",
+    "name": "Specialized Skill 063",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000064",
+    "name": "Specialized Skill 064",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000065",
+    "name": "Specialized Skill 065",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000066",
+    "name": "Specialized Skill 066",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000067",
+    "name": "Specialized Skill 067",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000068",
+    "name": "Specialized Skill 068",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000069",
+    "name": "Specialized Skill 069",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000070",
+    "name": "Specialized Skill 070",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000071",
+    "name": "Specialized Skill 071",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000072",
+    "name": "Specialized Skill 072",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000073",
+    "name": "Specialized Skill 073",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000074",
+    "name": "Specialized Skill 074",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000075",
+    "name": "Specialized Skill 075",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000076",
+    "name": "Specialized Skill 076",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000077",
+    "name": "Specialized Skill 077",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000078",
+    "name": "Specialized Skill 078",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000079",
+    "name": "Specialized Skill 079",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000080",
+    "name": "Specialized Skill 080",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000081",
+    "name": "Specialized Skill 081",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000082",
+    "name": "Specialized Skill 082",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000083",
+    "name": "Specialized Skill 083",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000084",
+    "name": "Specialized Skill 084",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000085",
+    "name": "Specialized Skill 085",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000086",
+    "name": "Specialized Skill 086",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000087",
+    "name": "Specialized Skill 087",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000088",
+    "name": "Specialized Skill 088",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000089",
+    "name": "Specialized Skill 089",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000090",
+    "name": "Specialized Skill 090",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000091",
+    "name": "Specialized Skill 091",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000092",
+    "name": "Specialized Skill 092",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000093",
+    "name": "Specialized Skill 093",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000094",
+    "name": "Specialized Skill 094",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000095",
+    "name": "Specialized Skill 095",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000096",
+    "name": "Specialized Skill 096",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000097",
+    "name": "Specialized Skill 097",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000098",
+    "name": "Specialized Skill 098",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000099",
+    "name": "Specialized Skill 099",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000100",
+    "name": "Specialized Skill 100",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000101",
+    "name": "Specialized Skill 101",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000102",
+    "name": "Specialized Skill 102",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000103",
+    "name": "Specialized Skill 103",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000104",
+    "name": "Specialized Skill 104",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000105",
+    "name": "Specialized Skill 105",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000106",
+    "name": "Specialized Skill 106",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000107",
+    "name": "Specialized Skill 107",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000108",
+    "name": "Specialized Skill 108",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000109",
+    "name": "Specialized Skill 109",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000110",
+    "name": "Specialized Skill 110",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000111",
+    "name": "Specialized Skill 111",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000112",
+    "name": "Specialized Skill 112",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000113",
+    "name": "Specialized Skill 113",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000114",
+    "name": "Specialized Skill 114",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000115",
+    "name": "Specialized Skill 115",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000116",
+    "name": "Specialized Skill 116",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000117",
+    "name": "Specialized Skill 117",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000118",
+    "name": "Specialized Skill 118",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000119",
+    "name": "Specialized Skill 119",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000120",
+    "name": "Specialized Skill 120",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000121",
+    "name": "Specialized Skill 121",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000122",
+    "name": "Specialized Skill 122",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000123",
+    "name": "Specialized Skill 123",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000124",
+    "name": "Specialized Skill 124",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000125",
+    "name": "Specialized Skill 125",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000126",
+    "name": "Specialized Skill 126",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000127",
+    "name": "Specialized Skill 127",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000128",
+    "name": "Specialized Skill 128",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000129",
+    "name": "Specialized Skill 129",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000130",
+    "name": "Specialized Skill 130",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000131",
+    "name": "Specialized Skill 131",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000132",
+    "name": "Specialized Skill 132",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000133",
+    "name": "Specialized Skill 133",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000134",
+    "name": "Specialized Skill 134",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000135",
+    "name": "Specialized Skill 135",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000136",
+    "name": "Specialized Skill 136",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000137",
+    "name": "Specialized Skill 137",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000138",
+    "name": "Specialized Skill 138",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000139",
+    "name": "Specialized Skill 139",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000140",
+    "name": "Specialized Skill 140",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000141",
+    "name": "Specialized Skill 141",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000142",
+    "name": "Specialized Skill 142",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000143",
+    "name": "Specialized Skill 143",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000144",
+    "name": "Specialized Skill 144",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000145",
+    "name": "Specialized Skill 145",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000146",
+    "name": "Specialized Skill 146",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000147",
+    "name": "Specialized Skill 147",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000148",
+    "name": "Specialized Skill 148",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000149",
+    "name": "Specialized Skill 149",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000150",
+    "name": "Specialized Skill 150",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000151",
+    "name": "Specialized Skill 151",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000152",
+    "name": "Specialized Skill 152",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000153",
+    "name": "Specialized Skill 153",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000154",
+    "name": "Specialized Skill 154",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000155",
+    "name": "Specialized Skill 155",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000156",
+    "name": "Specialized Skill 156",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000157",
+    "name": "Specialized Skill 157",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000158",
+    "name": "Specialized Skill 158",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000159",
+    "name": "Specialized Skill 159",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000160",
+    "name": "Specialized Skill 160",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000161",
+    "name": "Specialized Skill 161",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000162",
+    "name": "Specialized Skill 162",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000163",
+    "name": "Specialized Skill 163",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000164",
+    "name": "Specialized Skill 164",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000165",
+    "name": "Specialized Skill 165",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000166",
+    "name": "Specialized Skill 166",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000167",
+    "name": "Specialized Skill 167",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000168",
+    "name": "Specialized Skill 168",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000169",
+    "name": "Specialized Skill 169",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000170",
+    "name": "Specialized Skill 170",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000171",
+    "name": "Specialized Skill 171",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000172",
+    "name": "Specialized Skill 172",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000173",
+    "name": "Specialized Skill 173",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000174",
+    "name": "Specialized Skill 174",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000175",
+    "name": "Specialized Skill 175",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000176",
+    "name": "Specialized Skill 176",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000177",
+    "name": "Specialized Skill 177",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000178",
+    "name": "Specialized Skill 178",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000179",
+    "name": "Specialized Skill 179",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000180",
+    "name": "Specialized Skill 180",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000181",
+    "name": "Specialized Skill 181",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000182",
+    "name": "Specialized Skill 182",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000183",
+    "name": "Specialized Skill 183",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000184",
+    "name": "Specialized Skill 184",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000185",
+    "name": "Specialized Skill 185",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000186",
+    "name": "Specialized Skill 186",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000187",
+    "name": "Specialized Skill 187",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000188",
+    "name": "Specialized Skill 188",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000189",
+    "name": "Specialized Skill 189",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000190",
+    "name": "Specialized Skill 190",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000191",
+    "name": "Specialized Skill 191",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000192",
+    "name": "Specialized Skill 192",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000193",
+    "name": "Specialized Skill 193",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000194",
+    "name": "Specialized Skill 194",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000195",
+    "name": "Specialized Skill 195",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000196",
+    "name": "Specialized Skill 196",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000197",
+    "name": "Specialized Skill 197",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000198",
+    "name": "Specialized Skill 198",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000199",
+    "name": "Specialized Skill 199",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000200",
+    "name": "Specialized Skill 200",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000201",
+    "name": "Specialized Skill 201",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000202",
+    "name": "Specialized Skill 202",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000203",
+    "name": "Specialized Skill 203",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000204",
+    "name": "Specialized Skill 204",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000205",
+    "name": "Specialized Skill 205",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000206",
+    "name": "Specialized Skill 206",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000207",
+    "name": "Specialized Skill 207",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000208",
+    "name": "Specialized Skill 208",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000209",
+    "name": "Specialized Skill 209",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000210",
+    "name": "Specialized Skill 210",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000211",
+    "name": "Specialized Skill 211",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000212",
+    "name": "Specialized Skill 212",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000213",
+    "name": "Specialized Skill 213",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000214",
+    "name": "Specialized Skill 214",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000215",
+    "name": "Specialized Skill 215",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000216",
+    "name": "Specialized Skill 216",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000217",
+    "name": "Specialized Skill 217",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000218",
+    "name": "Specialized Skill 218",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000219",
+    "name": "Specialized Skill 219",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000220",
+    "name": "Specialized Skill 220",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000221",
+    "name": "Specialized Skill 221",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000222",
+    "name": "Specialized Skill 222",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000223",
+    "name": "Specialized Skill 223",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000224",
+    "name": "Specialized Skill 224",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000225",
+    "name": "Specialized Skill 225",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000226",
+    "name": "Specialized Skill 226",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000227",
+    "name": "Specialized Skill 227",
+    "category": "Technical",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000228",
+    "name": "Specialized Skill 228",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000229",
+    "name": "Specialized Skill 229",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000230",
+    "name": "Specialized Skill 230",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000231",
+    "name": "Specialized Skill 231",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000232",
+    "name": "Specialized Skill 232",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000233",
+    "name": "Specialized Skill 233",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000234",
+    "name": "Specialized Skill 234",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000235",
+    "name": "Specialized Skill 235",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000236",
+    "name": "Specialized Skill 236",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000237",
+    "name": "Specialized Skill 237",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000238",
+    "name": "Specialized Skill 238",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000239",
+    "name": "Specialized Skill 239",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000240",
+    "name": "Specialized Skill 240",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000241",
+    "name": "Specialized Skill 241",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000242",
+    "name": "Specialized Skill 242",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000243",
+    "name": "Specialized Skill 243",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000244",
+    "name": "Specialized Skill 244",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000245",
+    "name": "Specialized Skill 245",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000246",
+    "name": "Specialized Skill 246",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000247",
+    "name": "Specialized Skill 247",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000248",
+    "name": "Specialized Skill 248",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000249",
+    "name": "Specialized Skill 249",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000250",
+    "name": "Specialized Skill 250",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000251",
+    "name": "Specialized Skill 251",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000252",
+    "name": "Specialized Skill 252",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000253",
+    "name": "Specialized Skill 253",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000254",
+    "name": "Specialized Skill 254",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000255",
+    "name": "Specialized Skill 255",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000256",
+    "name": "Specialized Skill 256",
+    "category": "Quality",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000257",
+    "name": "Specialized Skill 257",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000258",
+    "name": "Specialized Skill 258",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000259",
+    "name": "Specialized Skill 259",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000260",
+    "name": "Specialized Skill 260",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000261",
+    "name": "Specialized Skill 261",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000262",
+    "name": "Specialized Skill 262",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000263",
+    "name": "Specialized Skill 263",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000264",
+    "name": "Specialized Skill 264",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000265",
+    "name": "Specialized Skill 265",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000266",
+    "name": "Specialized Skill 266",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000267",
+    "name": "Specialized Skill 267",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000268",
+    "name": "Specialized Skill 268",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000269",
+    "name": "Specialized Skill 269",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000270",
+    "name": "Specialized Skill 270",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000271",
+    "name": "Specialized Skill 271",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000272",
+    "name": "Specialized Skill 272",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000273",
+    "name": "Specialized Skill 273",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000274",
+    "name": "Specialized Skill 274",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000275",
+    "name": "Specialized Skill 275",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000276",
+    "name": "Specialized Skill 276",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000277",
+    "name": "Specialized Skill 277",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000278",
+    "name": "Specialized Skill 278",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000279",
+    "name": "Specialized Skill 279",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000280",
+    "name": "Specialized Skill 280",
+    "category": "Quality",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000281",
+    "name": "Specialized Skill 281",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000282",
+    "name": "Specialized Skill 282",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000283",
+    "name": "Specialized Skill 283",
+    "category": "Quality",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000284",
+    "name": "Specialized Skill 284",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000285",
+    "name": "Specialized Skill 285",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000286",
+    "name": "Specialized Skill 286",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000287",
+    "name": "Specialized Skill 287",
+    "category": "Business",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000288",
+    "name": "Specialized Skill 288",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000289",
+    "name": "Specialized Skill 289",
+    "category": "Technical",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000290",
+    "name": "Specialized Skill 290",
+    "category": "Data",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000291",
+    "name": "Specialized Skill 291",
+    "category": "Technical",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000292",
+    "name": "Specialized Skill 292",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000293",
+    "name": "Specialized Skill 293",
+    "category": "Data",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000294",
+    "name": "Specialized Skill 294",
+    "category": "Cloud",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000295",
+    "name": "Specialized Skill 295",
+    "category": "Data",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000296",
+    "name": "Specialized Skill 296",
+    "category": "Business",
+    "verification_days": 365
+  },
+  {
+    "id": "SKL-000297",
+    "name": "Specialized Skill 297",
+    "category": "Cloud",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000298",
+    "name": "Specialized Skill 298",
+    "category": "Business",
+    "verification_days": 180
+  },
+  {
+    "id": "SKL-000299",
+    "name": "Specialized Skill 299",
+    "category": "Cloud",
+    "verification_days": 540
+  },
+  {
+    "id": "SKL-000300",
+    "name": "Specialized Skill 300",
+    "category": "Data",
+    "verification_days": 540
+  }
+]

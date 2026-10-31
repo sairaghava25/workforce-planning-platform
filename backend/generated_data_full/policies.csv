@@ -1,0 +1,8 @@
+key,value,description
+stale_skill_days,365,Maximum days since skill verification
+underutilized_pct,50,Utilization below this percentage is underutilized
+healthy_utilization_pct,85,Upper healthy utilization percentage
+high_utilization_pct,100,Utilization above this percentage is overallocated
+minimum_proficiency,3,Minimum proficiency counted as qualified
+standard_week_hours,40,Standard full-time weekly hours
+training_gap_max_fte,1,Maximum uncovered FTE recommended for training before hiring is considered

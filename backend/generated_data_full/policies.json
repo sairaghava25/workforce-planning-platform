@@ -1,0 +1,37 @@
+[
+  {
+    "key": "stale_skill_days",
+    "value": "365",
+    "description": "Maximum days since skill verification"
+  },
+  {
+    "key": "underutilized_pct",
+    "value": "50",
+    "description": "Utilization below this percentage is underutilized"
+  },
+  {
+    "key": "healthy_utilization_pct",
+    "value": "85",
+    "description": "Upper healthy utilization percentage"
+  },
+  {
+    "key": "high_utilization_pct",
+    "value": "100",
+    "description": "Utilization above this percentage is overallocated"
+  },
+  {
+    "key": "minimum_proficiency",
+    "value": "3",
+    "description": "Minimum proficiency counted as qualified"
+  },
+  {
+    "key": "standard_week_hours",
+    "value": "40",
+    "description": "Standard full-time weekly hours"
+  },
+  {
+    "key": "training_gap_max_fte",
+    "value": "1",
+    "description": "Maximum uncovered FTE recommended for training before hiring is considered"
+  }
+]

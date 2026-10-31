@@ -1,0 +1,27 @@
+{
+  "dataset": "synthetic workforce planning data",
+  "seed": 20261022,
+  "generator_command": "python -m app.generate_dataset",
+  "parameters": {
+    "employees": 5000,
+    "skills": 300,
+    "projects": 500,
+    "months": 12,
+    "inject_anomalies": true
+  },
+  "counts": {
+    "employees": 5000,
+    "roles": 12,
+    "skills": 300,
+    "projects": 500,
+    "demand_plans": 52421,
+    "allocations": 120330,
+    "availability": 265000,
+    "employee_skills": 27454,
+    "anomalies": 4,
+    "seed": 20261022
+  },
+  "ground_truth_is_separate": true,
+  "external_sources": [],
+  "database": "Configured SQLAlchemy database from DATABASE_URL"
+}

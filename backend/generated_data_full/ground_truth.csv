@@ -1,0 +1,5 @@
+case_id,issue_type,entity_id,expected_label,details
+GT-001,ALLOCATION_EXCEEDS_AVAILABILITY,EMP-000001,True,Employee has an injected over-capacity allocation ALLOC-2026-000120329.
+GT-002,STALE_SKILL_TREATED_CURRENT,ES-00000005,True,Skill verification age exceeds policy while verified_current remains true.
+GT-003,DEMAND_DOUBLE_COUNTED,DEM-PRJ-2026-000001-2026W44-R011-S000165-DUP-001,True,A second demand row duplicates the same project-role-skill-period-version business key.
+GT-004,OVERLAPPING_PROJECT_ASSIGNMENT,EMP-000001,True,Employee has overlapping project allocations including ALLOC-2026-000120330.

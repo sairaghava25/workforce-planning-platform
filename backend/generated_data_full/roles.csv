@@ -1,0 +1,13 @@
+id,name,department
+ROLE-001,Python Developer,Engineering
+ROLE-002,Backend Developer,Engineering
+ROLE-003,Frontend Developer,Engineering
+ROLE-004,AI Engineer,Data
+ROLE-005,Data Scientist,Data
+ROLE-006,QA Engineer,Quality
+ROLE-007,DevOps Engineer,Operations
+ROLE-008,Business Analyst,Business
+ROLE-009,Project Manager,Business
+ROLE-010,Data Engineer,Data
+ROLE-011,Java Developer,Engineering
+ROLE-012,Cloud Engineer,Operations
